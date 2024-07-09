@@ -1,0 +1,16 @@
+
+# Step 1: Update Your System
+#nsure that your system is up-to-date.
+sudo yum update -y
+# Step 2 Install Amazon Corretto 11 this will install Java
+sudo yum install -y java-11-amazon-corretto
+Step 3: Download Apache Ignite
+wget https://archive.apache.org/dist/ignite/2.14.0/apache-ignite-2.14.0-bin.zip
+# Step 5: Unzip Apache Ignite
+unzip apache-ignite-2.14.0-bin.zip
+# Step 6: Set Up Environment Variables
+echo 'export IGNITE_HOME=~/apache-ignite-2.14.0-bin' >> ~/.bashrc
+source ~/.bashrc
+#Step 7: Start Apache Ignite. Navigate to the bin directory of Apache Ignite and start the node.
+cd $IGNITE_HOME/bin
+./ignite.sh
