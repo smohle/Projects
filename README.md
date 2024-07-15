@@ -1,2 +1,1 @@
-# Projects
-projects
+This space is organized into two sections: One section for WGU coursework, Data Analytics projects, and technical writing projects. The other section has technical projects to help me learn a concept  (I am a kinetic learner).
