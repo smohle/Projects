@@ -1,1 +1,1 @@
-This space is organized into two sections: One section for WGU coursework, Data Analytics projects, and technical writing projects. The other section has technical projects to help me learn a concept  (I am a kinetic learner).
+This space is organized into two sections: One section for WGU coursework which includes Data Analytics projects and technical writing assignment. The other section has technical projects to help me learn a concept  (as I am a kinetic learner).
